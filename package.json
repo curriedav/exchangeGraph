@@ -1,0 +1,23 @@
+{
+  "name": "exchangeGraph",
+  "version": "0.0.1",
+  "description": "Graphs USD exchange rates using the openexchange.org api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/curriedav/exchangeGraph.git"
+  },
+  "keywords": [
+    "exchange",
+    "rate"
+  ],
+  "author": "David Currie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/curriedav/exchangeGraph/issues"
+  },
+  "homepage": "https://github.com/curriedav/exchangeGraph"
+}
